@@ -177,6 +177,7 @@ namespace Program7
                             Console.ForegroundColor = ConsoleColor.Yellow;
                             Console.WriteLine("Повторите ввод");
                             ok = false;
+
                         }
                     }
                 }
